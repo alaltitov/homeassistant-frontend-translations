@@ -1,0 +1,7 @@
+get_translation:
+  fields:
+    language:
+      example: "en"
+      required: true
+      selector:
+        language:

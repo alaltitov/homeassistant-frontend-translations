@@ -1,0 +1,7 @@
+{
+  "services": {
+    "get_translation": {
+      "service": "mdi:translate-variant"
+    }
+  }
+}
