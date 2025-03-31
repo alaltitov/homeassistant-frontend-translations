@@ -25,4 +25,4 @@ frontend:
     - /local/frontend-translations/frontend-translations.js
 ```
 
-For more information, see the [README](https://github.com/alaltitov/hacs-frontend-translations/blob/1cca3ff3f71125a057b2e34ec13b9450c76a101d/README.md).
+For more information, see the [README](https://github.com/alaltitov/homeassistant-frontend-translations/blob/63cd1ec20f34a79ccbca3a922dca7e9171c50234/README.md).
