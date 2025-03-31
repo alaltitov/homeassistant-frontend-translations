@@ -25,4 +25,4 @@ frontend:
     - /local/frontend-translations/frontend-translations.js
 ```
 
-For more information, see the [README](https://github.com/alaltitov/hacs-frontend-translations/blob/96f15470999c07634450d28e47f0011ce033cf81/README.md).
+For more information, see the [README](https://github.com/alaltitov/hacs-frontend-translations/blob/1cca3ff3f71125a057b2e34ec13b9450c76a101d/README.md).

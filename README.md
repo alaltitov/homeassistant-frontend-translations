@@ -1,4 +1,4 @@
-# <img width="30px" src="https://github.com/alaltitov/hacs-frontend-translations/blob/2a944f4f9d958a946e66df3e2699ee3a0c9b8041/docs/icons/icon%402x.png"> Frontend Translations for Home Assistant
+# <img width="30px" src="https://github.com/alaltitov/hacs-frontend-translations/blob/1cca3ff3f71125a057b2e34ec13b9450c76a101d/docs/icons/icon%402x.png"> Frontend Translations for Home Assistant
 
 This integration allows fetching and managing translation files for the Home Assistant frontend. It provides services and WebSocket API endpoints to retrieve translations and metadata for different languages, enabling dynamic language switching without requiring a restart.
 
@@ -53,7 +53,7 @@ The integration provides the following service:
 
 - `frontend_translations.get_translation`: Retrieves translation data for a specific language
   
-  <img width="400px" src="https://github.com/alaltitov/hacs-frontend-translations/blob/5bbdf6e52df28528375c673644be3d687d268a16/docs/images/example.png">
+  <img width="400px" src="https://github.com/alaltitov/hacs-frontend-translations/blob/1cca3ff3f71125a057b2e34ec13b9450c76a101d/docs/images/example.png">
 
 ### WebSocket API
 
